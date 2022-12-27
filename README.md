@@ -1,7 +1,6 @@
 # Customer-Churn-Analysis
 
-Markdown
-churn%20image.jpg
+[alt](https://cdn.business2community.com/wp-content/uploads/2016/06/magnet-clients-150x150.jpg.jpg)
 
 # Predicting Customer Churn
 ​
@@ -22,10 +21,10 @@ Some of the reasons why customers are lost include:
 - Lack of brand loyalty
 ​
 The ability to predict when a client is likely to leave and offering them enticing incentives that will make them stay, can offer huge savings to a business. Business managers have to understand the factors that keep customers engaged and this is a strategy that requires constant development. It is important to note that finding patterns using Exploratory Data Analysis (EDA) is as important as the final prediction itself. A Churn prediction task remains unfinished if the data patterns are not found in EDA.
-​
+
 This churn prediction modelling technique attempts to explore some customer behaviours and attributes that relates to the reason 
-and time of customers leaving.
-​
+and time of customers leaving. 
+
 I have used the Telco Customer Churn dataset which is available on Kaggle. You can find the dataset <a href="https://www.kaggle.com/blastchar/telco-customer-churn">here</a>
 ​
 ​
