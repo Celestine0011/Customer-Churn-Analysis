@@ -1,6 +1,6 @@
 # Customer-Churn-Analysis
 
-[alt](https://imgs.search.brave.com/ndfWDNC1t2rn6upGKVLg…/Z3MtdGhhdC13aWxs/LXJlZHVjZS15b3Vy/LWNodXJuLnBuZw)
+![alt](https://imgs.search.brave.com/ndfWDNC1t2rn6upGKVLg…/Z3MtdGhhdC13aWxs/LXJlZHVjZS15b3Vy/LWNodXJuLnBuZw)
 
 # Predicting Customer Churn
 
